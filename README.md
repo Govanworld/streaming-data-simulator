@@ -1,6 +1,6 @@
-# 🛡️ Govan Mohammad | Data Intelligence & Cyber Defense
+# 🛡️ Govan Mohammad | Data Intelligence & Cybersecurity Defense
 
-**Data Analytics | Cybersecurity | AI Risk Automation**  
+**Data Analytics | Cybersecurity | Customer Specialist | KYC/AML/CDD & Transaction Monitoring. AI Risk Automation**  
 Specializing in high-performance data engineering, real-time threat detection, and automated compliance. I leverage AI and Python to transform raw financial data into secure, actionable intelligence.
 
 ---
